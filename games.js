@@ -5,24 +5,19 @@ const games = [
     file: "roms/mario_nes.nes"
   },
   {
+    name: "Super Mario Bros 2",
+    core: "nes",
+    file: "roms/Super Mario Bros. 2 (Europe).nes"
+  },
+  {
     name: "Super Mario Bros 3",
     core: "nes",
-    file: "roms/mario3.nes"
+    file: "roms/Super Mario Bros. 3 (USA).nes"
   },
   {
-    name: "Super Mario World",
-    core: "snes",
-    file: "roms/mario_world.smc"
-  },
-  {
-    name: "Kirby's Adventure",
-    core: "nes",
-    file: "roms/kirby_adventure.nes"
-  },
-  {
-    name: "Kirby's Dream Land",
+    name: "Contra (USA)",
     core: "gb",
-    file: "roms/kirby_dreamland.gb"
+    file: "roms/Contra (USA).nes"
   }
 ];
 
